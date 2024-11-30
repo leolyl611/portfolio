@@ -1,6 +1,6 @@
 # About me
 
-### Research Insects
+### Research Interests
 - Mental Well-being
 - Social Engagement
 
