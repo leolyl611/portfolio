@@ -1,3 +1,6 @@
+title: Leo Lu Research Portfolio
+logo: /assets/img/COCOAYANG.jpeg
+
 # About me
 
 ### Research Interests
