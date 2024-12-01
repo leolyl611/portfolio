@@ -5,7 +5,7 @@
 - Social Engagement
 
 ## Education
-- B.A. Psychology | University of Toronto May 2026 _(Expected)_
+- _B.A._ Psychology | University of Toronto May 2026 _(Expected)_
 
 # Research Project
 Does Employment status and social engagement predict someone's well-being?
