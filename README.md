@@ -38,12 +38,13 @@ Measures
   - *“Thinking about the past 12 months, how often did you engage in the following activities? Get together socially with friends or relatives.”*
  
 ## Findings
-Pearson correlations between independent and dependent variables
-- Age added as a control variable
-- Significant weak positive correlation between Employment status, Social Interaction and Life Satisfaction
-- Significant weak positive correlation between Employment status, Social Interaction and Happiness
-- Significant strong postive correlation between Life Satisfaction and Happiness
+We conducted a pearson correlation between all independent and dependent variables. Age is added as a control variable.
+- We found a significant weak positive correlation between Employment status, Social Interaction and Life Satisfaction.
+- We also found a significant weak positive correlation between Employment status, Social Interaction and Happiness.
+- There is a significant strong postive correlation between Life Satisfaction and Happiness indicating that both measures are good indicators of well-being
+- The general trend is that one variable leads to an increase to all other variables excluding age. This supports prior research with their general trends of employment, social interaction, and well-being
 
+A multiple regression analysis is conducted for this test testing causation from pearson correlations.
 ![Pearon Correlation](/assets/img/Corr.png)
 
 Can employment status and social interaction predict Life Satisfaction?
