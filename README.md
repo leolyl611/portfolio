@@ -5,7 +5,7 @@
 - Social Engagement
 
 ## Education
-- __B.S.__ Psychology | University of Toronto May 2026 _(Expected)_
+- __B.A.__ Psychology | University of Toronto May 2026 _(Expected)_
 
 # Research Project
 Does Employment status and social engagement predict someone's well-being?
@@ -18,8 +18,8 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 - Those who expect better employment outcomes are happier (Wolff, A. D., 2008)
 - Happiness increases with more social exchanges. (Masterson et al. 2021)
 - Any forms of social ties can lead to increased well-being (Sandstrom & Dunn., 2014)
-- While employment status and social interaction can each lead to varying levels of well-being, are they both able to serve as an indicator?
-- Which variable acts as a stronger indicator?
+- While employment status and social interaction can each lead to varying levels of well-being, are they both able to serve as a predictor?
+- This research serves to test the question and if one variable can better predict well-being.
 
 ## Approach
 Participants
@@ -27,6 +27,9 @@ Participants
   - Adults aged 18 to 64 recruited online via Qualtrics sending surveys to emails.
   - *M*age = 41; *SD*: 13.6
   - 47.8% Male, 51.8% Female, 0.5% Other
+- This research will be testing the relationship between employment status and social interaction with life satisfaction using multiple regression.
+- This research will be testing another relationshiip between employment status and socail interaction with happiness using multiple regression.
+- Age is added as a control variable.
 
 Measures
 - Life Satisfaction measured through Diemer Satisfaction With Life Scale
@@ -41,7 +44,6 @@ Measures
   - *"At least once a week, about once or twice a month, A few times, Once or twice, Never"*
  
 ## Findings
-We conducted a pearson correlation between all independent and dependent variables. Age is added as a control variable.
 - We found a significant weak positive correlation between Employment status, Social Interaction and Life Satisfaction.
 - We also found a significant weak positive correlation between Employment status, Social Interaction and Happiness.
 - There is a significant strong postive correlation between Life Satisfaction and Happiness indicating that both measures are good indicators of well-being
@@ -53,7 +55,7 @@ A multiple regression analysis is conducted for this test testing causation from
 
 Can employment status and social interaction predict Life Satisfaction?
 - We found that that individuals who are employed and socially interact more leads to higher life satisfaction.
-- Age is found to be significant predictor of life satisfaction. However age is not significantly correlated to any variable. Age might not be a linear variable in which it cannot be measured by Pearson Correlation.
+- Age is found to be significant predictor of life satisfaction.
 
 ![SWL Regression](/assets/img/SWL_Regression.png)
 
@@ -65,7 +67,7 @@ Can employment status and social interaction predict Happiness?
 # Impact
 - Unsurprisingly, happiness and life satisfaction contain strong positive correlations. Both dependent variables are strong indicators of well-being consistent with (Benjamin et al., 2014) findings.
 - Employment and increased social interactions predicts higher SWL and happiness. Both independent variables are able to predict an individual's well-being.
-- However, happiness and life satisfaction are both better predicted by Social interaction frequency. Although employment status leads to differences in someone's well-being, looking at their social interaction may better indicate their well-being level compared to employment status.
+- However, happiness and life satisfaction are both better predicted by Social interaction frequency. Although employment status leads to differences in someone's well-being, looking at their social interaction may better indicate their well-being level compared to employment status. This finding can help individuals with low well-being
 - Strengths: This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
 - Limitations: This sample collected during during the pandemic in which evaluations of satisfaction with life and happiness may be different compared to post pandemic times.
 - Next step: A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. However by replicating it in post pandemic, we can ensure generalizability across time.
