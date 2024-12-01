@@ -38,6 +38,7 @@ Measures
   - Yes or no to “One Job”, *“Multiple Jobs”*
 - Social Interaction measured via one prompt:
   - *“Thinking about the past 12 months, how often did you engage in the following activities? Get together socially with friends or relatives.”*
+  - *"At least once a week, about once or twice a month, A few times, Once or twice, Never"*
  
 ## Findings
 We conducted a pearson correlation between all independent and dependent variables. Age is added as a control variable.
@@ -51,12 +52,13 @@ A multiple regression analysis is conducted for this test testing causation from
 ![Pearon Correlation](/assets/img/Corr.png)
 
 Can employment status and social interaction predict Life Satisfaction?
-- The results show that individuals who are employed and have higher amounts of social interaction leads to higher life satisfaction.
+- We found that that individuals who are employed and socially interact more leads to higher life satisfaction.
+- Age is found to be significant predictor of life satisfaction. However age is not significantly correlated to any variable. Age might not be a linear variable in which it cannot be measured by Pearson Correlation.
 
 ![SWL Regression](/assets/img/SWL_Regression.png)
 
 Can employment status and social interaction predict Happiness?
-- The results show that individuals who are employed and have higher amounts of social interactions leads to higher happiness.
+- We found that individuals who are employed and have higher amounts of social interaction leads to higher amounts of happiness.
 
 ![Happiness Regression](assets/img/Happiness_Regression.png)
 
