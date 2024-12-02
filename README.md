@@ -13,11 +13,11 @@ Does Employment status and social engagement predict someone's well-being?
 My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 
 ## Objectives
-- Well-being highly related to an individuals life satisfaction and happiness (Benjamin et al., 2014)
-- High rates of anxiety often associated with insecure employment (Wolff, A. D., 2008)
-- Those who expect better employment outcomes are happier (Wolff, A. D., 2008)
-- Happiness increases with more social exchanges. (Masterson et al. 2021)
-- Any forms of social ties can lead to increased well-being (Sandstrom & Dunn., 2014)
+- Well-being __highly related__ to an individuals life satisfaction and happiness (Benjamin et al., 2014)
+- __High rates__ of anxiety often associated with insecure employment (Wolff, A. D., 2008)
+- Those who expect __better__ employment outcomes are happier (Wolff, A. D., 2008)
+- Happiness __increases__ with more social exchanges. (Masterson et al. 2021)
+- Any forms of social ties can lead to __increased__ well-being (Sandstrom & Dunn., 2014)
 - While employment status and social interaction can each lead to varying levels of well-being, are they both able to serve as a predictor?
 - This research serves to test the question and if one variable can better predict well-being.
 
@@ -44,9 +44,9 @@ Measures
   - *"At least once a week, about once or twice a month, A few times, Once or twice, Never"*
  
 ## Findings
-- We found a significant weak positive correlation between Employment status, Social Interaction and Life Satisfaction.
-- We also found a significant weak positive correlation between Employment status, Social Interaction and Happiness.
-- There is a significant strong postive correlation between Life Satisfaction and Happiness indicating that both measures are good indicators of well-being
+- We found a __significant weak positive__ correlation between Employment status, Social Interaction and Life Satisfaction.
+- We also found a __significant weak positive__ correlation between Employment status, Social Interaction and Happiness.
+- There is a __significant strong postive__ correlation between Life Satisfaction and Happiness indicating that both measures are good indicators of well-being
 - The general trend is that one variable leads to an increase to all other variables excluding age. This supports prior research with their general trends of employment, social interaction, and well-being
 
 A multiple regression analysis is conducted for this test testing causation from pearson correlations.
@@ -54,20 +54,21 @@ A multiple regression analysis is conducted for this test testing causation from
 ![Pearon Correlation](/assets/img/Corr.png)
 
 Can employment status and social interaction predict Life Satisfaction?
-- We found that that individuals who are employed and socially interact more leads to higher life satisfaction.
+- We found that that individuals who are employed and socially interact more leads to __higher__ life satisfaction.
 - Age is found to be significant predictor of life satisfaction.
 
 ![SWL Regression](/assets/img/SWL_Regression.png)
 
 Can employment status and social interaction predict Happiness?
-- We found that individuals who are employed and have higher amounts of social interaction leads to higher amounts of happiness.
+- We found that individuals who are employed and have __higher__ amounts of social interaction leads to higher amounts of happiness.
 
 ![Happiness Regression](assets/img/Happiness_Regression.png)
 
 # Impact
 - Unsurprisingly, happiness and life satisfaction contain strong positive correlations. Both dependent variables are strong indicators of well-being consistent with (Benjamin et al., 2014) findings.
-- Employment and increased social interactions predicts higher SWL and happiness. Both independent variables are able to predict an individual's well-being.
-- However, happiness and life satisfaction are both better predicted by Social interaction frequency. Although employment status leads to differences in someone's well-being, looking at their social interaction may better indicate their well-being level compared to employment status. This finding can help individuals with low well-being
+- Employment and increased social interactions predicts __higher__ SWL and happiness. Both independent variables are able to predict an individual's well-being.
+- However, happiness and life satisfaction are both __better predicted__ by Social interaction frequency.
+- Although employment status leads to differences in someone's well-being, looking at their social interaction may __better indicate__ their well-being level compared to employment status. This finding can help individuals with low well-being
 - Strengths: This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
 - Limitations: This sample collected during during the pandemic in which evaluations of satisfaction with life and happiness may be different compared to post pandemic times.
 - Next step: A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. However by replicating it in post pandemic, we can ensure generalizability across time.
