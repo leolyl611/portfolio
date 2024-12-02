@@ -48,12 +48,12 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
   - *"At least once a week, about once or twice a month, A few times, Once or twice, Never"*
  
 ## Findings
-- We found a significant __weak positive__ correlation between Employment status, Social Interaction and Life Satisfaction.
-- We also found a significant __weak positive__ correlation between Employment status, Social Interaction and Happiness.
-- There is a significant __strong postive__ correlation between Life Satisfaction and Happiness indicating that both are good measures of well-being.
-- The general trend is that one variable leads to an increase to all other variables excluding age. This supports prior research with their general trends of employment, social interaction, and well-being.
+- Although the relationship is weak, we found a __positive__ correlation between employment status, social interaction, and life satisfaction. All three measures increase with each other.
+- We also found a weak __positive__ correlation between employment status, social interaction and happiness. All three measures increase with each other.
+- There is a strong __postive__ correlation between life satisfaction and happiness. As happiness increases so does life satisfaction indicating that both are good measures of well-being.
+- The general trend is that an increase in one measure leads to an increase to all other measures excluding age. This supports prior research with their general trends of employment, social interaction, and well-being.
 
-A multiple regression analysis is conducted for this test testing causation from pearson correlations.
+A multiple regression analysis is conducted testing causation between all measures.
 
 ![Pearon Correlation](/assets/img/Corr.png)
 
