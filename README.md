@@ -72,9 +72,9 @@ Can employment status and social interaction predict Happiness?
 - Employment and increased social interactions predicts __higher__ SWL and happiness. Both employment status and social interaction are able to predict an individual's well-being.
 - However, happiness and life satisfaction are both __better predicted__ by Social interaction frequency.
 - Although employment status leads to differences in someone's well-being, looking at their social interaction may __better indicate__ their well-being level compared to employment status. This finding can help individuals with low well-being
-- Strengths: This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
-- Limitations: This sample collected during during the pandemic in which evaluations of satisfaction with life and happiness may be different compared to post pandemic times.
-- Next step: A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. However by replicating it in post pandemic, we can ensure generalizability across time.
+- __Strengths:__ This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
+- __Limitations:__ This sample collected during during the pandemic in which evaluations of satisfaction with life and happiness may be different compared to post pandemic times.
+- __Next step:__ A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. However by replicating it in post pandemic, we can ensure generalizability across time.
 
 ## Publications
 
