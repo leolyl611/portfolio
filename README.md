@@ -14,10 +14,10 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 
 ## Objectives
 - Well-being __highly related__ to an individuals life satisfaction and happiness (Benjamin et al., 2014)
-- __High rates__ of anxiety often associated with insecure employment (Wolff, A. D., 2008)
+- High rates of anxiety often associated with insecure employment (Wolff, A. D., 2008)
 - Those who expect __better__ employment outcomes are happier (Wolff, A. D., 2008)
 - Happiness __increases__ with more social exchanges. (Masterson et al. 2021)
-- Any forms of social ties can lead to __increased__ well-being (Sandstrom & Dunn., 2014)
+- Any forms of social ties can lead to increased well-being (Sandstrom & Dunn., 2014)
 - While employment status and social interaction can each lead to varying levels of well-being, are they both able to serve as a predictor?
 - This research serves to test the question and if one variable can better predict well-being.
 
@@ -47,9 +47,9 @@ Measures
   - *"At least once a week, about once or twice a month, A few times, Once or twice, Never"*
  
 ## Findings
-- We found a __significant weak positive__ correlation between Employment status, Social Interaction and Life Satisfaction.
-- We also found a __significant weak positive__ correlation between Employment status, Social Interaction and Happiness.
-- There is a __significant strong postive__ correlation between Life Satisfaction and Happiness indicating that both measures are good indicators of well-being
+- We found a significant __weak positive__ correlation between Employment status, Social Interaction and Life Satisfaction.
+- We also found a significant __weak positive__ correlation between Employment status, Social Interaction and Happiness.
+- There is a significant __strong postive__ correlation between Life Satisfaction and Happiness indicating that both measures are good indicators of well-being
 - The general trend is that one variable leads to an increase to all other variables excluding age. This supports prior research with their general trends of employment, social interaction, and well-being
 
 A multiple regression analysis is conducted for this test testing causation from pearson correlations.
