@@ -22,7 +22,7 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 - This research serves to test the question and if one variable can better predict well-being.
 
 ## Approach
-Participants
+**Participants**
 - N = 7644 adults from an open source dataset in [National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964), a US research study (Monnat et al. 2022)
   - Adults aged 18 to 64 recruited online via Qualtrics sending surveys to emails.
   - *Mean* age = 41; *Standard Deviation*: 13.6
@@ -31,7 +31,7 @@ Participants
 - This research will be testing another relationshiip between employment status and socail interaction with happiness using multiple regression.
 - Age is added as a control variable.
 
-Measures
+**Measures**
 - Life Satisfaction measured through Diemer Satisfaction With Life Scale
   - Cronbach alpha: 0.864
     - Good reliability as alpha value is above 0.8.
@@ -72,9 +72,9 @@ Can employment status and social interaction predict Happiness?
 - Employment and increased social interactions predicts __higher__ SWL and happiness. Both employment status and social interaction are able to predict an individual's well-being.
 - However, happiness and life satisfaction are both __better predicted__ by Social interaction frequency.
 - Although employment status leads to differences in someone's well-being, looking at their social interaction may __better indicate__ their well-being level compared to employment status. This finding can help individuals with low well-being
-- __Strengths:__ This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
-- __Limitations:__ This sample collected during during the pandemic in which evaluations of satisfaction with life and happiness may be different compared to post pandemic times.
-- __Next step:__ A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. However by replicating it in post pandemic, we can ensure generalizability across time.
+- **Strengths:** This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
+- **Limitations:** This sample collected during during the pandemic in which evaluations of satisfaction with life and happiness may be different compared to post pandemic times.
+- **Next step:** A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. However by replicating it in post pandemic, we can ensure generalizability across time.
 
 ## Publications
 
