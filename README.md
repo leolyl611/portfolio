@@ -25,7 +25,7 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 Participants
 - N = 7644 adults from an open source dataset in [National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964), a US research study (Monnat et al. 2022)
   - Adults aged 18 to 64 recruited online via Qualtrics sending surveys to emails.
-  - *M*age = 41; *SD*: 13.6
+  - *Mean*age = 41; *Standard Deviation*: 13.6
   - 47.8% Male, 51.8% Female, 0.5% Other
 - This research will be testing the relationship between employment status and social interaction with life satisfaction using multiple regression.
 - This research will be testing another relationshiip between employment status and socail interaction with happiness using multiple regression.
