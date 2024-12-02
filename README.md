@@ -34,7 +34,10 @@ Participants
 Measures
 - Life Satisfaction measured through Diemer Satisfaction With Life Scale
   - Cronbach alpha: 0.864
+    - Good reliability as alpha value is above 0.8.
+    - Items are below 0.9 meaning not all items are similar too each other.
   - Life Satisfaction Factor Loading range: 0.573 - 0.859
+    - Good validity as all values are above 0.4.
 - Happiness measured via one prompt:
   - *“Taking all things together, would you say you are: Very Happy, Rather Happy, Not Very Happy, Not At All Happy.”*
 - Employment Status measured by two items:
@@ -65,8 +68,8 @@ Can employment status and social interaction predict Happiness?
 ![Happiness Regression](assets/img/Happiness_Regression.png)
 
 # Impact
-- Unsurprisingly, happiness and life satisfaction contain strong positive correlations. Both dependent variables are strong indicators of well-being consistent with (Benjamin et al., 2014) findings.
-- Employment and increased social interactions predicts __higher__ SWL and happiness. Both independent variables are able to predict an individual's well-being.
+- Unsurprisingly, happiness and life satisfaction contain strong positive correlations. Both happiness and life satisfactions are strong indicators of well-being consistent with (Benjamin et al., 2014) findings.
+- Employment and increased social interactions predicts __higher__ SWL and happiness. Both employment status and social interaction are able to predict an individual's well-being.
 - However, happiness and life satisfaction are both __better predicted__ by Social interaction frequency.
 - Although employment status leads to differences in someone's well-being, looking at their social interaction may __better indicate__ their well-being level compared to employment status. This finding can help individuals with low well-being
 - Strengths: This research uses the national well being survey. It consists a large sample size ensuring strong validity and generalizability across the population.
