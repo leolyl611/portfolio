@@ -85,4 +85,5 @@ Can employment status and social interaction predict Happiness?
 4. Masterson, C., Sun, J., Wayne, S. J., & Kluemper, D. (2021). The roller coaster of happiness: An investigation of interns’ happiness variability, LMX, and job-seeking goals. Journal of Vocational Behavior, 131, 103654-. https://doi.org/10.1016/j.jvb.2021.103654
 5. Sandstrom, G. M., & Dunn, E. W. (2014). Social Interactions and Well-Being: The Surprising Power of Weak Ties. Personality & Social Psychology Bulletin, 40(7), 910–922. https://doi.org/10.1177/0146167214529799
 
-ICPSR Dataset: Monnat, Shannon M., Zhang, Xue, Sun, Yue, Wiemers, Emily E., Wolf, Douglas A., and Montez, Jennifer Karas. National Wellbeing Survey, United States, 2022. Inter-university Consortium for Political and Social Research [distributor], 2024-05-30. https://doi.org/10.3886/ICPSR38964.v2
+ICPSR Dataset: 
+- Monnat, Shannon M., Zhang, Xue, Sun, Yue, Wiemers, Emily E., Wolf, Douglas A., and Montez, Jennifer Karas. National Wellbeing Survey, United States, 2022. Inter-university Consortium for Political and Social Research [distributor], 2024-05-30. https://doi.org/10.3886/ICPSR38964.v2
