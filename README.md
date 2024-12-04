@@ -77,7 +77,7 @@ Can employment status and social interaction predict Happiness?
 - **Limitations:** This sample is collected during the pandemic in which evaluations of life satisfaction and happiness may be different compared to post pandemic times.
 - **Next step:** A future consideration would be to replicate the study in post pandemic times. It will be interesting to compare the results from different time pressures. By replicating it in post pandemic, we can ensure generalizability across time.
 
-## Publications
+## Citations
 
 1. Benjamin, D. J., Heffetz, O., Kimball, M. S., & Szembrot, N. (2014). Beyond Happiness and Satisfaction: Toward Well-Being Indices Based on Stated Preference. The American Economic Review, 104(9), 2698–2735. https://doi.org/10.1257/aer.104.9.2698
 2. De Wolff, A., National Collaborating Centre for Determinants of Health., & National Collaborating Centre for Determinants of Health. (2008). Employment insecurity and health: synthesis paper. NCCDH.
