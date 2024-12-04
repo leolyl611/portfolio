@@ -25,7 +25,7 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 **Participants**
 - N = 7644 adults from an open source dataset in [National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964), a US research study (Monnat et al. 2022)
   - Adults aged 18 to 64 recruited online via Qualtrics sending surveys to emails.
-  - *Mean* age = 41; *Standard Deviation*: 13.6
+  - *Mean* age = 41
   - 47.8% Male, 51.8% Female, 0.5% Other
 - This research will be testing the relationship between employment status and social interaction with life satisfaction using multiple regression.
 - This research will be testing another relationship between employment status and social interaction with happiness using multiple regression.
@@ -33,12 +33,6 @@ My dataset code: [Mydataset](https://github.com/leolyl611/Mydataset)
 
 **Measures**
 - Life Satisfaction measured through Diemer Satisfaction With Life Scale
-  - Cronbach alpha: 0.864
-    - Good reliability as alpha value is above 0.8.
-    - Items are below 0.9 meaning all items are not too similar to each other.
-  - Life Satisfaction Factor Loading range: 0.573 - 0.859
-    - Measure has good validity as all values are above 0.4.
-    - This measure is a good indicator of life satisfaction.
 - Happiness measured via one prompt:
   - *“Taking all things together, would you say you are: Very Happy, Rather Happy, Not Very Happy, Not At All Happy.”*
 - Employment Status measured by two items:
